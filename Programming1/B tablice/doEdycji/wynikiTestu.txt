@@ -1,0 +1,3 @@
+Comparing files .\DOEDYCJI\janosikOdp.txt and .\DOEDYCJI\WYNIKITWOJEGOPROGRAMU.TXT
+FC: no differences encountered
+
